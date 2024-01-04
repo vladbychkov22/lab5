@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\quans\\.nuget\\packages\\": {}
+    "C:\\Users\\Vlad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quans\\lab2\\lab4\\lab4.csproj",
+      "projectUniqueName": "C:\\Users\\Vlad\\lab2\\lab4\\lab4.csproj",
       "projectName": "lab4",
-      "projectPath": "C:\\Users\\quans\\lab2\\lab4\\lab4.csproj",
-      "packagesPath": "C:\\Users\\quans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quans\\lab2\\lab4\\obj\\",
+      "projectPath": "C:\\Users\\Vlad\\lab2\\lab4\\lab4.csproj",
+      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vlad\\lab2\\lab4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\quans\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
